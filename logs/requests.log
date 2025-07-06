@@ -1,0 +1,24 @@
+13-06-2025 16:07:34.469 INFO: Incoming request | #1 | resource: /calculator/independent/calculate | HTTP Verb POST | request #1
+13-06-2025 16:08:29.848 INFO: Incoming request | #2 | resource: /calculator/stack/size | HTTP Verb GET | request #2
+13-06-2025 16:08:29.851 ERROR: Server encountered an error ! message: 'StackManager' object has no attribute '_items' | request #2
+13-06-2025 16:08:34.168 INFO: Incoming request | #3 | resource: /calculator/stack/size | HTTP Verb GET | request #3
+13-06-2025 16:08:34.169 ERROR: Server encountered an error ! message: 'StackManager' object has no attribute '_items' | request #3
+13-06-2025 16:09:53.088 INFO: Incoming request | #4 | resource: /calculator/stack/adarguments | HTTP Verb PUT | request #4
+13-06-2025 16:09:53.089 ERROR: Server encountered an error ! message: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again. | request #4
+13-06-2025 16:10:01.115 INFO: Incoming request | #5 | resource: /calculator/stack/arguments | HTTP Verb PUT | request #5
+13-06-2025 16:11:13.388 INFO: Incoming request | #1 | resource: /calculator/stack/size | HTTP Verb GET | request #1
+13-06-2025 16:11:13.390 ERROR: Server encountered an error ! message: 'StackManager' object has no attribute '_items' | request #1
+13-06-2025 16:11:29.547 INFO: Incoming request | #2 | resource: /calculator/stack/arguments | HTTP Verb PUT | request #2
+13-06-2025 16:11:49.346 INFO: Incoming request | #3 | resource: /calculator/stack/size | HTTP Verb GET | request #3
+13-06-2025 16:11:49.348 ERROR: Server encountered an error ! message: 'StackManager' object has no attribute '_items' | request #3
+13-06-2025 16:14:03.437 INFO: Incoming request | #4 | resource: /calculator/stack/operate | HTTP Verb GET | request #4
+13-06-2025 16:14:10.720 INFO: Incoming request | #5 | resource: /calculator/stack/operate | HTTP Verb GET | request #5
+13-06-2025 16:15:41.617 INFO: Incoming request | #6 | resource: /calculator/stack/operate | HTTP Verb GET | request #6
+13-06-2025 16:17:37.798 INFO: Incoming request | #1 | resource: /calculator/stack/arguments | HTTP Verb POST | request #1
+13-06-2025 16:17:37.799 ERROR: Server encountered an error ! message: 405 Method Not Allowed: The method is not allowed for the requested URL. | request #1
+13-06-2025 16:17:42.179 INFO: Incoming request | #2 | resource: /calculator/stack/arguments | HTTP Verb PUT | request #2
+13-06-2025 16:17:49.622 INFO: Incoming request | #3 | resource: /calculator/stack/size | HTTP Verb GET | request #3
+13-06-2025 16:17:49.623 ERROR: Server encountered an error ! message: 'StackManager' object has no attribute '_items' | request #3
+13-06-2025 16:18:10.986 INFO: Incoming request | #4 | resource: /calculator/stack/operate | HTTP Verb POST | request #4
+13-06-2025 16:18:10.987 ERROR: Server encountered an error ! message: 405 Method Not Allowed: The method is not allowed for the requested URL. | request #4
+13-06-2025 16:18:26.990 INFO: Incoming request | #5 | resource: /calculator/stack/operate | HTTP Verb GET | request #5

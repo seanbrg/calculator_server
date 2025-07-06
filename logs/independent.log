@@ -1,0 +1,2 @@
+13-06-2025 16:07:34.470 INFO: Performing operation abs. Result is 14 | request #1
+13-06-2025 16:07:34.471 DEBUG: Performing operation: abs(-14) = 14 | request #1

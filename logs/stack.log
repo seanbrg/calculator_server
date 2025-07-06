@@ -1,0 +1,6 @@
+13-06-2025 16:11:13.390 INFO: Stack size is 0 | request #1
+13-06-2025 16:11:29.548 INFO: Adding total of 2 argument(s) to the stack | Stack size: 2 | request #2
+13-06-2025 16:11:49.348 INFO: Stack size is 2 | request #3
+13-06-2025 16:17:42.180 INFO: Adding total of 2 argument(s) to the stack | Stack size: 2 | request #2
+13-06-2025 16:17:49.623 INFO: Stack size is 2 | request #3
+13-06-2025 16:18:26.992 INFO: Performing operation plus. Result is 4 | stack size: 0 | request #5
