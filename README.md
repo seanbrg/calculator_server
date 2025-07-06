@@ -31,7 +31,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 python app.py
 
-Endpoints:
+Endpoints (can be easily accessed via Postman):
 
 1. Health check:
    GET /calculator/health
@@ -54,10 +54,7 @@ Logging:
 
 Testing:
 
-* Unit tests with pytest:
-  pip install -r requirements-dev.txt
-  pytest tests/
-* Manual testing via curl or Postman
+* Manual testing can be done via curl or Postman
 
 Contributing:
 
